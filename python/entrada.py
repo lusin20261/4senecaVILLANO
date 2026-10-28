@@ -1,0 +1,5 @@
+D = input ("escribe donde vives:")
+F = input ("escribe en que año ganastes el mundial:")
+R = input ("escribe tu pais favorito :")
+Q = input ("escribe tu nombre :")
+print ("hola soy ",Q,"vivo en",D,"mi pais favorito es",R,"y gane el mundial en",F)
